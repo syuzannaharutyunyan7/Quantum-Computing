@@ -6,7 +6,7 @@ In the beginning of the game, there are lots of different color combinations for
 
 3. Suggest a system of qubits that describes the game, and define the game states and state vectors.
 
-In a quantum version of the game, each tiny part called a "qubit" could stand for a color in a specific spot of the code. The game's different situations would be like mixtures of these qubits, where each mix shows a potential combination of colors. Imagine if there are 6 colors and the code has 4 spots, we'd have 4 qubits each in a mix of 6 colors. Putting these mixes together, we get the overall situation. So, it's like putting together these tiny parts to show all the possible color combinations.
+In a quantum version of the game, each tiny part called a "qubit" could stand for a color in a specific spot of the code. The game's different situations would be like mixtures of these qubits, where each mix shows a potential combination of colors. Imagine if there are 6 colors and the code has 4 spots, we'd have 4 qubits each in a mix of 6 colors. Putting these mixes together, we get the overall situation. 
 
 
 4. Design quantum gates that implement the operations of the sequential classical algorithm.
